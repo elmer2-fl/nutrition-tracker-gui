@@ -11,4 +11,4 @@ A simple nutrition calculator built with **Python** and **PyQt5**.
 
 ## Run the app
 ```bash
-python gui/app.py
+python -m gui.app
